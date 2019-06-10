@@ -1,6 +1,6 @@
 {
   "name": "negate-number",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Makes a number negative",
   "main": "index.js",
   "scripts": {
